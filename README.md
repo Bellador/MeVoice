@@ -1,2 +1,2 @@
 # MeVoice
-simple kivy app with costumisable voice recognition
+simple kivy app with customisable voice recognition
